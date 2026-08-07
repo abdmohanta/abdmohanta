@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋 I'm Debasish Mohanta
+<h2>Hi 👋 I'm Debasish Mohanta</h2>
 
-### Java Backend Developer • Spring Boot • Microservices
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Applications;Spring+Boot+Developer;Daily+LeetCode+Solver;Always+Learning+🚀"/>
+<p>
+💻 <b>Java Backend Developer</b> • ☕ Spring Boot • 🚀 Microservices
+</p>
 
 </div>
 
@@ -12,39 +12,50 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Java Backend Developer (3.4+ Years)
-- 🚀 Spring Boot • REST APIs • Microservices
-- 🧠 Learning System Design & Spring AI
-- 💻 Solving LeetCode daily
+<small>
+
+- 💼 **3.4+ Years** of Java Backend Development
+- ☕ Building scalable **Spring Boot** applications
+- 🔗 Developing **REST APIs & Microservices**
+- 🤖 Currently exploring **Spring AI** & **System Design**
+- 🧩 Solving **LeetCode** daily
+
+</small>
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,github,maven,redis,kafka,postman"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,github,maven,redis,kafka,postman,linux" />
 </p>
 
 ---
 
 ### ⭐ Featured Projects
 
-- ❤️ TextMeFree
-- 📦 ScanStockIQ
-- 📺 Live TV Spring Boot
-- 📚 Java Design Patterns
-- 🧩 Spring Boot DSA
+<small>
+
+- ❤️ **TextMeFree** – Dating Application Backend
+- 📦 **ScanStockIQ** – Inventory Management System
+- 📺 **Live TV Spring Boot** – IPTV Streaming APIs
+- 📚 **Java Design Patterns** – GoF & SOLID
+- 🧩 **Spring Boot DSA** – Daily LeetCode Solutions
+
+</small>
 
 ---
 
 <p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://github.com/abdmohanta">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</a>
 </p>
