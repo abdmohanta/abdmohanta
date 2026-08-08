@@ -47,11 +47,11 @@
 ---
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">
+<a href="[LINKEDIN](https://www.linkedin.com/in/dmohanta/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mohanta.mx@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
 
