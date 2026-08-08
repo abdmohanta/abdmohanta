@@ -1,6 +1,7 @@
 <div align="center">
 
-<h2>Hi 👋 I'm Debasish Mohanta</h2>
+<h2>Hi 👋 </h2>
+<h2>I'm Debasish Mohanta</h2>
 
 <p>
 💻 <b>Java Backend Developer</b> • ☕ Spring Boot • 🚀 Microservices
