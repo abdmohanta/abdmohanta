@@ -15,11 +15,11 @@
 
 <small>
 
-- 💼 **4+ Years** of Java Backend Development
-- ☕ Building scalable **Spring Boot** applications
-- 🔗 Developing **REST APIs & Microservices**
-- 🤖 Currently exploring **Spring AI** & **System Design**
-- 🧩 Solving **LeetCode** daily
+- **4+ Years** of Java Backend Development
+- Building scalable **Spring Boot** applications
+- Developing **REST APIs & Microservices**
+- Currently exploring **Spring AI** & **System Design**
+- Solving **LeetCode** daily
 
 </small>
 
