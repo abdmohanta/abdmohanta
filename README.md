@@ -11,7 +11,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 <small>
 
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,github,maven,redis,kafka,postman,linux" />
