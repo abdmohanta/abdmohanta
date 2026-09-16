@@ -30,7 +30,7 @@ Will include soon ...
 
 ---
 
-### ⭐ Featured Projects
+### Featured Projects
 
 <small>
 
