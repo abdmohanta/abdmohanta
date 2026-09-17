@@ -31,18 +31,12 @@ Will include soon ...
 ---
 
 ### Featured Projects
-
 <small>
-
 - **TextMeFree** – Dating Application Backend
 - **ScanStockIQ** – Inventory Management System
 - **Live TV Spring Boot** – IPTV Streaming APIs
 - **Java Design Patterns** – GoF & SOLID
 - **Spring Boot DSA** – Daily LeetCode Solutions
-
-
-
-
 </small>
 
 ---
