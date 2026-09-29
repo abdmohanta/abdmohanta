@@ -1,237 +1,324 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Debasish Mohanta - Java Backend Engineer" width="100%"/>
+🌌 DEBASISH MOHANTA
 
-<br/>
+Java Backend Engineer · 4+ Years · Bengaluru
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Designing+Clean+REST+APIs;Exploring+Microservices+%26+System+Design;Learning+Something+New+Every+Day;Turning+Coffee+%E2%98%95+Into+Production+Code" alt="Typing animation"/>
+Building scalable backend systems
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38E1FF&center=true&vCenter=true&width=750&lines=Building+scalable+backend+systems;Designing+clean+REST+APIs;Exploring+microservices+and+system+design;Turning+coffee+into+production+code" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=abdmohanta&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile views"/>
-<img src="https://img.shields.io/badge/Experience-4%2B%20Years-7a5cff?style=flat"/>
-<img src="https://img.shields.io/badge/Focus-Spring%20Boot%20%7C%20Microservices-ff5fa8?style=flat"/>
+<br>
+
+<img src="https://img.shields.io/badge/Java%20Backend%20Engineer-4%2B%20Years-38e1ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Spring%20Boot-38e1ff?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Microservices-a98bff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Design-ff5fa8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20APIs-ffc15e?style=for-the-badge" />
 
 </div>
 
----
+whoami
 
-## 🧑‍💻 `whoami`
-
-```java
 public class DebasishMohanta {
 
     String role = "Java Backend Developer";
     String experience = "4+ Years";
 
-    String[] coreSkills = {
-        "Java", "Spring Boot", "REST APIs",
-        "Microservices", "SQL", "System Design"
-    };
-
-    String[] currentlyExploring = {
-        "Spring AI", "Distributed Systems",
-        "Advanced System Design", "Cloud & DevOps"
+    String[] exploring = {
+        "Spring AI",
+        "Distributed Systems",
+        "Cloud & DevOps"
     };
 
     String philosophy =
-        "Write code that is simple today and scalable tomorrow.";
+        "Simple today, scalable tomorrow.";
 }
-```
 
----
-
-## ⚡ Engineering Focus
+⚡ Engineering Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ☕ Backend Engineering
+☕ Backend Engineering
 
-* Java & Spring Boot
-* RESTful APIs
-* Microservices
-* Authentication & Authorization
-* Exception Handling & Validation
-* Database Design
-* API Security
+Java & Spring Boot
+
+RESTful APIs
+
+Microservices
+
+Authentication & Authorization
+
+Exception Handling
+
+Validation
+
+Database Design
+
+API Security
 
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ Architecture
+🏗️ Architecture
 
-* System Design
-* Design Patterns & SOLID
-* Distributed Systems
-* Service Communication
-* Scalability & Fault Tolerance
-* Clean Architecture
+System Design
+
+Design Patterns
+
+SOLID Principles
+
+Distributed Systems
+
+Service Communication
+
+Scalability
+
+Fault Tolerance
+
+Clean Architecture
 
 </td>
 </tr>
 </table>
 
----
+🚀 What I'm Building
 
-## 🏛️ Architecture Mindset
+Four projects, each one a different backend problem.
 
-I don't just think about making an API work. I think about how it behaves under load, failure and change.
+<table>
+<tr>
 
-<div align="center">
-<img src="./assets/architecture.svg" alt="Animated architecture: client, API gateway, services, database" width="100%"/>
-</div>
+<td width="65%" valign="top">
 
----
+💬 TextMeFree
 
-## 🚀 What I'm Building
+Backend architecture for a modern dating app.
 
-### 💘 TextMeFree
+Pipeline
 
-> A backend architecture for a modern dating application.
+Spring Boot → REST → JWT → MySQL → Cloudinary → WebSocket
 
-<div align="center">
-<img src="./assets/textmefree.svg" alt="TextMeFree: animated swipe, match and chat flow with backend architecture" width="100%"/>
-</div>
+Features
 
-`Spring Boot` → `REST API` → `JWT` → `MySQL` → `Cloudinary` → `WebSocket`
+JWT Auth · Profiles · Likes & Matches · Real-time Chat · Calling · Image Upload · Validation
 
-* 🔐 JWT Authentication
-* 👤 User Profiles
-* ❤️ Like & Match System
-* 💬 Real-time Messaging
-* 📞 Calling Architecture
-* 🖼️ Cloud Image Upload
-* 🛡️ API Validation & Exception Handling
+</td>
 
----
+<td width="35%" valign="top">
 
-### 📦 ScanStockIQ
+📺 Live TV
 
-> Inventory management system focused on fast and reliable stock operations.
+IPTV APIs for live television streaming.
 
-```text
-Barcode
-   │
-   ▼
-API Gateway
-   │
-   ▼
+Spring Boot · REST APIs · IPTV
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+📦 ScanStockIQ
+
+Fast, reliable stock operations.
+
+Gateway
+   ↓
 Inventory Service
-   │
    ├── Product Management
    ├── Stock Management
    ├── Returns
    ├── Stock History
    └── Reporting
-```
 
----
+</td>
 
-### 📺 Live TV Spring Boot
+<td width="50%" valign="top">
 
-> IPTV backend providing APIs for live television streaming.
+🧩 Java Design Patterns
 
-`Spring Boot` • `REST APIs` • `IPTV` • `HTML/CSS`
+Practical implementations, top to bottom.
 
----
+Creational
+    ↓
+Structural
+    ↓
+Behavioral
+    ↓
+Resilience
+    ↓
+Clean Code
+    ↓
+SOLID
 
-### 🧠 Java Design Patterns
+</td>
 
-A practical collection of Java implementations:
-
-`Creational` → `Structural` → `Behavioral` → `Resilience` → `Clean Code` → `SOLID`
-
----
-
-## 🧰 Technology Arsenal
+</tr>
+</table>
 
 <div align="center">
 
-**Languages**
+☕ JAVA · SPRING BOOT · MICROSERVICES · SYSTEM DESIGN · MYSQL · POSTGRESQL · REDIS · DOCKER · GIT · LINUX
+
+</div>
+
+🏛️ How I Design
+
+I don't only make an API work.
+
+I ask whether it stays:
+
+Readable → Reliable → Testable → Maintainable → Scalable
+
+System Principles
+
+                    ┌───────────────────┐
+                    │  System Principles│
+                    └─────────┬─────────┘
+                              │
+       ┌──────────┬───────────┼───────────┬──────────┐
+       ↓          ↓           ↓           ↓          ↓
+     SOLID    Clean Code   Patterns   Fail Fast   Observability
+       │          │           │           │          │
+       └──────────┴───────────┼───────────┴──────────┘
+                              ↓
+                       Scalable Systems
+
+Backend
+
+Authentication · Validation · Database Design · API Security
+
+Architecture
+
+Service Communication · Fault Tolerance · Clean Architecture
+
+🧠 Practice & Learning
+
+LeetCode for fundamentals, and a steady list of things I'm learning next.
+
+DSA
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures-38e1ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Algorithms-a98bff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dynamic%20Programming-ff5fa8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Graphs-ffc15e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Binary%20Search-38e1ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Sliding%20Window-a98bff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hashing-ff5fa8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Greedy-ffc15e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bit%20Manipulation-38e1ff?style=for-the-badge" />
+
+</div>
+
+Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Spring%20AI-38e1ff?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/System%20Design-a98bff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud%20Architecture-ff5fa8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Distributed%20Systems-ffc15e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Advanced%20Security-38e1ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Observability-a98bff?style=for-the-badge" />
+
+</div>
+
+🛠️ Technology Arsenal
+
+<div align="center">
+
+Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,js" />
 
-**Backend**
+Backend
 
 <img src="https://skillicons.dev/icons?i=spring,maven,hibernate" />
 
-**Database**
+Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
 
-**DevOps & Tools**
+DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman" />
 
 </div>
 
----
-
-## 🧩 Design Principles I Follow
-
-`SOLID` + `Clean Code` + `Design Patterns` + `Separation of Concerns` + `Fail Fast` + `Defensive Programming` + `Observability`
-
-> **Simple code is not simplistic code.**
-
-**Readable → Reliable → Testable → Maintainable → Scalable**
-
----
-
-## 🧠 Problem Solving
-
-Data Structures • Algorithms • Dynamic Programming • Graphs • Binary Search • Sliding Window • Hashing • Greedy • Bit Manipulation
+📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/abdmohanta?theme=dark&font=Baloo&ext=heatmap" />
+<img src="https://github-readme-stats.vercel.app/api?username=abdmohanta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdmohanta&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
 
----
-
-## 📈 GitHub Activity
+🐍 Contribution Journey
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdmohanta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdmohanta&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/abdmohanta/abdmohanta/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/abdmohanta/abdmohanta/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 
 </div>
 
----
+🎯 Current Mission
 
-## 🎯 Current Mission
+<table>
+<tr>
+<td>☕ Master Java</td>
+<td>🚀 Build scalable Spring Boot systems</td>
+</tr>
+<tr>
+<td>🧠 Improve system design</td>
+<td>🤖 Explore Spring AI</td>
+</tr>
+<tr>
+<td>🧩 Solve challenging DSA problems</td>
+<td>🌎 Build software used by real users</td>
+</tr>
+</table>
 
-- [x] ☕ Master Java
-- [x] 🚀 Build scalable Spring Boot systems
-- [ ] 🧠 Improve System Design
-- [ ] 🤖 Explore Spring AI
-- [ ] 🧩 Solve challenging DSA problems
-- [ ] 🌎 Build software used by real users
-
-**Currently learning:** Spring AI • System Design • Cloud Architecture • Distributed Systems • Advanced Security • Observability
-
----
+💡 Engineering Philosophy
 
 <div align="center">
 
-### 💡 "Build it simple. Make it reliable. Scale it when it matters."
+Build it simple.
 
-<a href="https://www.linkedin.com/in/dmohanta/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mohanta.mx@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/abdmohanta"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+Make it reliable.
 
-<br/><br/>
+Scale it when it matters.
 
-### ☕ Code. Design. Learn. Repeat.
+</div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dmohanta/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:mohanta.mx@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/abdmohanta">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+Code. Design. Learn. Repeat.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=abdmohanta&label=PROFILE+VIEWS&color=38e1ff&style=flat" />
 
 </div>
